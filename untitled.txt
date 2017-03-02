@@ -1,0 +1,5 @@
+내가 만든 폴더로 들어간다
+git add -A
+git commit -m "영어로 쓴다"
+git push origin master
+
